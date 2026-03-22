@@ -1,0 +1,16 @@
+{
+  "magic": "VOLUME_F32_V1",
+  "width": 154,
+  "height": 154,
+  "depth": 154,
+  "format": "Red",
+  "type": "FloatType",
+  "wrap": "RepeatWrapping",
+  "filter": "LinearFilter",
+  "uScale": 13.2,
+  "uSeed": [
+    28.71,
+    36.08,
+    12.73
+  ]
+}
